@@ -1,6 +1,6 @@
 # README
 
-This is trying to present the Tao Te Ching in a way more readable to me, especially on mobile.
+This is trying to present the Tao Te Ching in a way more readable to me, especially on mobile. This is for personal use only, not meant for any distribution. I did not write this translation at all it's just so I can read it more easily on my own.
 
 ## Python scripts
 
